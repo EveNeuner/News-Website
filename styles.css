@@ -1,37 +1,45 @@
 h1 {
     text-align: center;
-    color: midnightblue;
+    color: rgb(255, 80, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(243, 150, 122);
 }
 
 h3 {
     text-align: center;
-    color: midnightblue;
+    color: rgb(255, 80, 27);
+    font-family: monospace;
 }
 
 p {
     text-align: center;
     color: midnightblue;
+    font-family: monospace;
 }
 
 figcaption {
     text-align: center;
     color: midnightblue;
+    font-family: monospace;
 }
 
 aside {
     text-align: center;
     color: midnightblue;
+    font-family: monospace;
 }
 
 figure {
-
+    margin: auto;
+    padding-left: 45vw;
+    padding-right: 45vw;
 }
 
 footer {
     text-align: center;
-    color: midnightblue;
+    color: rgb(255, 80, 27);
+    font-family: sans-serif;   
 }
-
 nav {
     list-style: none;
     width: 50%;
@@ -43,8 +51,9 @@ nav {
 
 nav>li {
     display: inline-block;
-    border-style: groove;
+    border-style: double;
     border-radius: 3px;
+    border-color: midnightblue;
 }
 
 nav>li>a:hover {
