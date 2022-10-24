@@ -29,10 +29,10 @@ aside {
     font-family: monospace;
 }
 
-figure {
-    margin: auto;
-    padding-left: 45vw;
-    padding-right: 45vw;
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
