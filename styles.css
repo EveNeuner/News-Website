@@ -5,9 +5,21 @@ h1 {
     background-color: rgb(243, 150, 122);
 }
 
+h2 {
+    text-align: center;
+    color: rgb(255, 80, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 h3 {
     text-align: center;
     color: rgb(255, 80, 27);
+    font-family: monospace;
+}
+
+h4 {
+    text-align: center;
+    color: midnightblue;
     font-family: monospace;
 }
 
