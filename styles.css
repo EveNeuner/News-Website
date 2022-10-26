@@ -26,13 +26,19 @@ figcaption {
 aside {
     text-align: center;
     color: rgb(24, 141, 150);
-    font-family: monospace;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: smaller;
 }
 
 div {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+div>img {
+    width: 30vw;
+    height: 20vh;
 }
 
 footer {
